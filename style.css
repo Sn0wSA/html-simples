@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box; /* Garantir que padding e borda não afetem a largura total */
+  }
+  
+  body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+  }
+  
+  .container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  input {
+    padding: 10px;
+    width: calc(100% - 22px); /* Ajuste para considerar padding */
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    width: calc(100% - 22px); /* Ajuste para considerar padding */
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005fa3;
+  }
+  
+  #resultado {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
