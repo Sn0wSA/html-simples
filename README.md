@@ -1,4 +1,4 @@
-Integrantes (Nome/RA):
+Integrantes (Nome/RA):<br>
 Lucas Dias 1221130699<br>
 Davi Azevedo 12410908<br>
 Victor Emanuel Maksud Carneiro 12315747<br>
